@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="RichIAS602.Text" xml:space="preserve">
+    <value>WAREHOUSE,D,R,*,3,*;STOCKPLACE,D,R,*,5,*;SPECIALSTOCK,D,R,*,1,*;MATTYPE,D,R,*,3,*;MATGRP,D,R,*,10,*,*,*;MATERIAL,D,R,*,15,*;ACCOUNT,D,R,*,10,*;SKUNIT,D,R,*,2,*;PERBEGQTY,D,R,*,15,*;PERBEGAMNT,D,R,*,15,*;PERBEGPRICE,D,R,*,15,*;RECQTY,D,R,*,15,*;RECAMNT,D,R,*,15,*;RECPRICE,D,R,*,15,*;ISSQTY,D,R,*,15,*;ISSAMNT,D,R,*,15,*;ISSPRICE,D,R,*,15,*;PERENDQTY,D,R,*,15,*;PERENDAMNT,D,R,*,15,*;PERENDPRICE,D,R,*,15,*</value>
+  </data>
+  <data name="RichALP602.Text" xml:space="preserve">
+    <value>WAREHOUSE,D,R,*,3,*;STOCKPLACE,D,R,*,5,*;SPECIALSTOCK,D,R,*,1,*;MATTYPE,D,R,*,3,*;MATGRP,D,R,*,10,*,*,*;MATERIAL,D,R,*,15,*;ACCOUNT,D,R,*,10,*;SKUNIT,D,R,*,2,*;PERBEGQTY,D,R,*,15,*;PERBEGAMNT,D,R,*,15,*;PERBEGPRICE,D,R,*,15,*;RECQTY,D,R,*,15,*;RECAMNT,D,R,*,15,*;RECPRICE,D,R,*,15,*;ISSQTY,D,R,*,15,*;ISSAMNT,D,R,*,15,*;ISSPRICE,D,R,*,15,*;PERENDQTY,D,R,*,15,*;PERENDAMNT,D,R,*,15,*;PERENDPRICE,D,R,*,15,*;SCROLLNUM,D,R,*,30,*,*,*;EXTINVDATE,D,R,*,*,*,*,*</value>
+  </data>
+  <data name="RichIAS604.Text" xml:space="preserve">
+    <value>WAREHOUSE,D,*,*,3,*,*,*,*;STOCKPLACE,D,*,*,5,*,*,*,*;SPECIALSTOCK,D,*,*,1,*,*,*,*;MATTYPE,D,*,*,3,*,*,*,*;MATGRP,D,*,*,10,*,*,*,*;MATERIAL,D,*,*,15,*,*,*,*;MTEXT,D,*,*,*,*,*,*,*;ACCOUNT,D,*,*,10,*,*,*,*;SKUNIT,D,*,*,2,*,*,*,*;PERBEGQTY,D,*,*,15,*,*,*,*;PERBEGAMNT,D,*,*,15,*,*,*,*;PERBEGPRICE,D,*,*,15,*,*,*,*;RECQTY,D,*,*,15,*,*,*,*;RECAMNT,D,*,*,15,*,*,*,*;RECAMNT1,D,*,*,15,*,*,*,*;RECAMNT2,D,*,*,15,*,*,*,*;RECAMNT3,D,*,*,15,*,*,*,*;RECAMNT4,D,*,*,15,*,*,*,*;RECAMNT5,D,*,*,15,*,*,*,*;RECAMNT6,D,*,*,15,*,*,*,*;RECAMNT7,D,*,*,15,*,*,*,*;RECAMNT8,D,*,*,15,*,*,*,*;RECAMNT9,D,*,*,15,*,*,*,*;RECAMNT10,D,*,*,15,*,*,*,*;RECPRICE,D,*,*,15,*,*,*,*;RECPRICE1,D,*,*,15,*,*,*,*;RECPRICE2,D,*,*,15,*,*,*,*;RECPRICE3,D,*,*,15,*,*,*,*;RECPRICE4,D,*,*,15,*,*,*,*;RECPRICE5,D,*,*,15,*,*,*,*;RECPRICE6,D,*,*,15,*,*,*,*;RECPRICE7,D,*,*,15,*,*,*,*;RECPRICE8,D,*,*,15,*,*,*,*;RECPRICE9,D,*,*,15,*,*,*,*;RECPRICE10,D,*,*,15,*,*,*,*;ISSQTY,D,*,*,15,*,*,*,*;ISSAMNT,D,*,*,15,*,*,*,*;ISSAMNT1,D,*,*,15,*,*,*,*;ISSAMNT2,D,*,*,15,*,*,*,*;ISSAMNT3,D,*,*,15,*,*,*,*;ISSAMNT4,D,*,*,15,*,*,*,*;ISSAMNT5,D,*,*,15,*,*,*,*;ISSAMNT6,D,*,*,15,*,*,*,*;ISSAMNT7,D,*,*,15,*,*,*,*;ISSAMNT8,D,*,*,15,*,*,*,*;ISSAMNT9,D,*,*,15,*,*,*,*;ISSAMNT10,D,*,*,15,*,*,*,*;ISSPRICE,D,*,*,15,*,*,*,*;ISSPRICE1,D,*,*,15,*,*,*,*;ISSPRICE2,D,*,*,15,*,*,*,*;ISSPRICE3,D,*,*,15,*,*,*,*;ISSPRICE4,D,*,*,15,*,*,*,*;ISSPRICE5,D,*,*,15,*,*,*,*;ISSPRICE6,D,*,*,15,*,*,*,*;ISSPRICE7,D,*,*,15,*,*,*,*;ISSPRICE8,D,*,*,15,*,*,*,*;ISSPRICE9,D,*,*,15,*,*,*,*;ISSPRICE10,D,*,*,15,*,*,*,*;PERENDQTY,D,*,*,15,*,*,*,*;PERENDAMNT,D,*,*,15,*,*,*,*;PERENDPRICE,D,*,*,15,*,*,*,*;VOPTIONSDESC,D,*,*,30,*,*,*,*</value>
+  </data>
+  <data name="RichIAS602L.Text" xml:space="preserve">
+    <value>Depo,*;St.Yeri,*;ÖST,*;MTipi,*;Malz.Grubu,X(10);Malzeme Kodu,*;M.Hesap No,*;Stok Miktar Birimi,*;DB Miktar,-FL*##,###,##0.000#####;DB Tutar,*;DB Br Fiyat,*;Giriş Miktar,-FL*##,###,##0.000#####;Giriş Tutar,*;Giriş Br Fiyat,*;Çıkış Miktar,-FL*##,###,##0.000#####;Çıkış Tutar,*;Çıkış Br Fiyat,*;DS Miktar,-FL*##,###,##0.000#####;DS Tutar,*;DS Br Fiyat,*</value>
+  </data>
+  <data name="RichALP602L.Text" xml:space="preserve">
+    <value>Depo,*;St.Yeri,*;ÖST,*;MTipi,*;Malz.Grubu,X(10);Malzeme Kodu,*;M.Hesap No,*;Stok Miktar Birimi,*;DB Miktar,*;DB Tutar,*;DB Br Fiyat,*;Giriş Miktar,*;Giriş Tutar,*;Giriş Br Fiyat,*;Çıkış Miktar,*;Çıkış Tutar,*;Çıkış Br Fiyat,*;DS Miktar,*;DS Tutar,*;DS Br Fiyat,*;Parça Kodu,X(30);Fatura Tarihi,99'.'99'.'9999</value>
+  </data>
+  <data name="RichIAS604L.Text" xml:space="preserve">
+    <value>Depo,*;St.Yeri,*;ÖST,*;MTipi,*;Malz.Grubu,X(10);Malzeme Kodu,*RCM:Malzemeyi Aç|Malzeme Bağlantısını Kopyala;Açıklama,*;M.Hesap No,*;Stok Miktar Birimi,*;DB Miktar,-FL*##,###,##0.000#####;DB Tutar,*;DB Br Fiyat,*;Giriş Miktar,-FL*##,###,##0.000#####;Giriş Tutar,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;Giriş Br Fiyat,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;Çıkış Miktar,-FL*##,###,##0.000#####;Çıkış Tutar,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;Çıkış Br Fiyat,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;-,*;DS Miktar,-FL*##,###,##0.000#####;DS Tutar,*;DS Br Fiyat,*;Seçenek Açıklaması,*</value>
+  </data>
+</root>

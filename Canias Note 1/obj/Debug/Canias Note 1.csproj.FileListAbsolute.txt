@@ -1,0 +1,90 @@
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.exe.config
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.exe
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.pdb
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.LoginForm.resources
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.StarterForm.resources
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.Properties.Resources.resources
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.exe
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.pdb
+C:\Users\user\Desktop\Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.MainForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.exe.config
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.exe
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.pdb
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.exe
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.pdb
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.LoginForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.MainForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.StarterForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.Properties.Resources.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\bin\Debug\GistwayZenon.dll
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\bin\Debug\GistwayZenon.pdb
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.TransactionForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.InheritForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.ClassForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.CollaberForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.DialogForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.GStuationForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.HelpForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.HomeForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.SettingsForm.resources
+C:\Users\user\Desktop\06 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.TableForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.exe.config
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.exe
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.pdb
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.exe
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.pdb
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\bin\Debug\GistwayZenon.pdb
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.ClassForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.CollaberForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.DialogForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.GStuationForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.HelpForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.HomeForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.SettingsForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.TableForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.TransactionForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.InheritForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.LoginForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.MainForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.StarterForm.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.Properties.Resources.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\bin\Debug\GistwayZenon.dll
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.HomeForm2.resources
+C:\Users\user\Desktop\07 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.exe.config
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.InheritForm.resources
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.LoginForm.resources
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.MainForm.resources
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.StarterForm.resources
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.Properties.Resources.resources
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.exe
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.pdb
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\bin\Debug\GistwayZenon.dll
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\bin\Debug\GistwayZenon.pdb
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.exe
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.pdb
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.HomeForm.resources
+C:\Users\user\Desktop\08 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.CollaberForm.resources
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.exe.config
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.exe
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.pdb
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.exe
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\bin\Debug\Canias Note 1.pdb
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\bin\Debug\GistwayZenon.dll
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\bin\Debug\GistwayZenon.pdb
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.TransactionForm.resources
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.CollaberForm.resources
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.HomeForm.resources
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.InheritForm.resources
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.LoginForm.resources
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.MainForm.resources
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.StarterForm.resources
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias_Note_1.Properties.Resources.resources
+C:\Users\user\Desktop\10 - Canias Note 1\Canias Note 1\obj\Debug\Canias Note 1.csproj.GenerateResource.Cache

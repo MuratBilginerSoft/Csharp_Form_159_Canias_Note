@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EKSCANIAS" Class="CANIASNOTEXENDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=94.73.146.3;Initial Catalog=EKSCANIAS;Persist Security Info=True;User ID=muratbilginer4" SettingsObjectName="Canias_Note_1.Properties.Settings" SettingsPropertyName="EKSCANIASConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.EKSADMIN" Member="EKSADMINs">
+    <Type Name="EKSADMIN">
+      <Column Name="PERSONELNO" Type="System.String" DbType="NVarChar(8) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="USERNAME" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="PASSWORD" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="NVarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="LASTNAME" Type="System.String" DbType="NVarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="AUTHORITY" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CREATEDATE" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="PICTURE" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EKSTRANSACTION" Member="EKSTRANSACTIONs">
+    <Type Name="EKSTRANSACTION">
+      <Column Name="TRANSACTIONNAME" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="STARTDIALOG" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MODUL" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CREATEDBY" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CREATEDAT" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CHANGEDBY" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CHANGEDAT" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TRANSDIALOGINFO" Member="TRANSDIALOGINFOs">
+    <Type Name="TRANSDIALOGINFO">
+      <Column Name="TRANSACTIONNAME" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="DIALOGNAME" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="EXPLANATION" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.SP_LoginData" Method="SP_LoginData">
+    <Parameter Name="UserName" Parameter="userName" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="Password" Parameter="password" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="Count" Parameter="count" Type="System.String" DbType="NVarChar(5)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_TransactionInfo" Method="SP_TransactionInfo">
+    <ElementType Name="SP_TransactionInfoResult">
+      <Column Name="TRANSACTIONNAME" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="STARTDIALOG" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MODUL" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CREATEDBY" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CREATEDAT" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CHANGEDBY" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CHANGEDAT" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_TransactionInfo2" Method="SP_TransactionInfo2">
+    <Parameter Name="TransactionName" Parameter="transactionName" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="StartDialog" Parameter="startDialog" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="Modul" Parameter="modul" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="CreatedBy" Parameter="createdBy" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="ChangedBy" Parameter="changedBy" Type="System.String" DbType="NVarChar(50)" />
+    <ElementType Name="SP_TransactionInfo2Result">
+      <Column Name="TRANSACTIONNAME" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="STARTDIALOG" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MODUL" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CREATEDBY" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CREATEDAT" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CHANGEDBY" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CHANGEDAT" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_UserPicture" Method="SP_UserPicture">
+    <Parameter Name="UserName" Parameter="userName" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="Password" Parameter="password" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="PersonelNo" Parameter="personelNo" Type="System.String" DbType="NVarChar(8)" Direction="InOut" />
+    <Parameter Name="Name" Parameter="name" Type="System.String" DbType="NVarChar(25)" Direction="InOut" />
+    <Parameter Name="LastName" Parameter="lastName" Type="System.String" DbType="NVarChar(25)" Direction="InOut" />
+    <Parameter Name="Authority" Parameter="authority" Type="System.String" DbType="NVarChar(1)" Direction="InOut" />
+    <Parameter Name="Picture" Parameter="picture" Type="System.String" DbType="NVarChar(250)" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Transaction2Add" Method="SP_Transaction2Add">
+    <Parameter Name="TransactionName" Parameter="transactionName" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="Aciklama" Parameter="aciklama" Type="System.String" DbType="NVarChar(2000)" />
+    <Parameter Name="Sebep" Parameter="sebep" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Tarih" Parameter="tarih" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="Girisyapan" Parameter="girisyapan" Type="System.String" DbType="NVarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.SP_Transaction2Select" Method="SP_Transaction2Select">
+    <Parameter Name="TransactionName" Parameter="transactionName" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="GirisYapan" Parameter="girisYapan" Type="System.String" DbType="NVarChar(50)" />
+    <ElementType Name="SP_Transaction2SelectResult">
+      <Column Name="TransactionName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Açıklama" Type="System.String" DbType="NVarChar(2000)" CanBeNull="true" />
+      <Column Name="Sebep" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tarih" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="GirişYapan" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

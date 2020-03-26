@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CANIASNOTEXEN">
+  <DataContextMoniker Name="/CANIASNOTEXENDataContext" />
+  <nestedChildShapes>
+    <classShape Id="bc65d4f7-1866-465d-a110-72a8e6a7b8ce" absoluteBounds="0.75, 0.75, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/CANIASNOTEXENDataContext/EKSADMIN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="293e1999-8bfb-45ef-820b-8f4f7ae6d542" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7eb7b2ea-03ee-414c-bff2-9ac10cdc81a3" absoluteBounds="3.75, 0.75, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/CANIASNOTEXENDataContext/EKSTRANSACTION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="37274015-243e-4c50-b204-ca7cc7f2c9a9" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bf0ae6d3-5af0-4b65-98d3-e92a345dad92" absoluteBounds="0.75, 4.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CANIASNOTEXENDataContext/TRANSDIALOGINFO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="069869c5-abe0-4949-bd52-209c59c6e596" absoluteBounds="0.765, 5.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
